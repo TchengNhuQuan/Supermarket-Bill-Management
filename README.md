@@ -1,2 +1,2 @@
 # Supermarket-Bill-Management
-A Bill Management system for Supermartket
+A bill Management system for Supermartket
